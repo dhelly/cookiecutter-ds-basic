@@ -12,7 +12,7 @@ _A simplified project structure for doing and sharing data science work, based o
  - [Cookiecutter Python package](http://cookiecutter.readthedocs.org/en/latest/installation.html) >= 1.4.0: This can be installed with pip by or conda depending on how you manage your Python packages:
 
 ``` bash
-$ pip install cookiecutter
+$ pipx install cookiecutter
 ```
 
 or
