@@ -26,7 +26,7 @@ $ conda install cookiecutter
 ### To start a new project, run:
 ------------
 
-    cookiecutter https://github.com/jcalvesoliveira/cookiecutter-ds-basic.git
+    cookiecutter https://github.com/dhelly/cookiecutter-ds-basic.git
 
 
 [![asciicast](https://asciinema.org/a/244658.svg)](https://asciinema.org/a/244658)
